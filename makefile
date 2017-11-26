@@ -38,7 +38,7 @@
 
 
 # MCU name
-MCU = attiny85
+MCU = atmega8
 
 # Main Oscillator Frequency
 # This is only used to define F_OSC in all assembler and c-sources.
